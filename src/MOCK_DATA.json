@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "first_name": "Gael",
+    "last_name": "Grigsby",
+    "email": "ggrigsby0@ucsd.edu",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "first_name": "Dalt",
+    "last_name": "Mountney",
+    "email": "dmountney1@mapy.cz",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "first_name": "Nalani",
+    "last_name": "Puncher",
+    "email": "npuncher2@webs.com",
+    "gender": "Female"
+  },
+  {
+    "id": 4,
+    "first_name": "Auberta",
+    "last_name": "Lacaze",
+    "email": "alacaze3@dot.gov",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "first_name": "Corney",
+    "last_name": "Keast",
+    "email": "ckeast4@about.com",
+    "gender": "Genderfluid"
+  }
+]
