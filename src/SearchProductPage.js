@@ -12,13 +12,7 @@ const SearchProductPage = () => {
   });
   return (
     <div className="App">
-      <section
-        style={{
-          'background-color': 'skyblue',
-          width: '150px',
-          padding: '20px',
-        }}
-      >
+      <section>
         <h1>Search AutoComplete</h1>
         <input
           type="text"
